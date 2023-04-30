@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "6hu6d4WBttdechxm9YcWkrI4hm4cQqjVfFQOscIwWbY=",
+  "Source": "StockPrice",
+  "BasePath": "_content/StockPrice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockPrice\\wwwroot",
+      "Source": "StockPrice",
+      "ContentRoot": "D:\\asp-net-core\\FinnhubStockApp\\StockPrice\\wwwroot\\",
+      "BasePath": "_content/StockPrice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\asp-net-core\\FinnhubStockApp\\StockPrice\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StockPrice",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\asp-net-core\\FinnhubStockApp\\StockPrice\\wwwroot\\",
+      "BasePath": "_content/StockPrice",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "D:\\asp-net-core\\FinnhubStockApp\\StockPrice\\wwwroot\\StyleSheet.css",
+      "SourceId": "StockPrice",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\asp-net-core\\FinnhubStockApp\\StockPrice\\wwwroot\\",
+      "BasePath": "_content/StockPrice",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
